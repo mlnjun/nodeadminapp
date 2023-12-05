@@ -1,0 +1,28 @@
+img {
+  width: auto;
+  height: 200;
+  border-radius: 5dvh;
+}
+
+div {
+  margin: auto;
+  width: 500;
+  height: 400;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+input {
+  background-color: rgba(0,0,255, 0.07);
+  border-radius: 5px;
+}
+
+button {
+  background-color: white;
+  margin: 10px auto;
+}
+
+span {
+  display: inline-block;
+  margin-top: 6px;
+}
